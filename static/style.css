@@ -1,0 +1,25 @@
+body {
+}
+
+.main {
+    width: 400px;
+    margin: auto;
+}
+
+form input[type=text] {
+    width: 100%;
+    margin-top: 5px;
+    line-height: 20px;
+}
+form input[type=submit] {
+    margin-top: 10px;
+    position: relative;
+    float: right;
+}
+form textarea{
+	width: 100%;
+    margin-top: 5px;
+}
+form select{
+    margin-top: 5px;
+}
